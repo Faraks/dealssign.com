@@ -1,6 +1,5 @@
 # dealssign.com
-
-> My fantabulous Nuxt.js project
+VUEJS + NUXT EDITION
 
 ## Build Setup
 
